@@ -1,6 +1,4 @@
 - url: https://www.dsapps.dev/
-  output: home.png
-  height: 800
+  output: dsapps.png
 - url: https://www.dsapps.dev/products/
-  output: products.png
-  height: 800
+  output: dsapps_products.png
